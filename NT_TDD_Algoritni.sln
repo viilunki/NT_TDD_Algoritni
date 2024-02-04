@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NT_TDD_Algoritmi", "NT_TDD_Algoritni\NT_TDD_Algoritmi.csproj", "{0FACE313-CF9F-4EF6-AA2E-12534EB88708}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTesting", "UnitTesting\UnitTesting.csproj", "{50EF5AAE-DC87-4825-BE82-6D107CB7A8F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FACE313-CF9F-4EF6-AA2E-12534EB88708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FACE313-CF9F-4EF6-AA2E-12534EB88708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FACE313-CF9F-4EF6-AA2E-12534EB88708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FACE313-CF9F-4EF6-AA2E-12534EB88708}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50EF5AAE-DC87-4825-BE82-6D107CB7A8F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50EF5AAE-DC87-4825-BE82-6D107CB7A8F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50EF5AAE-DC87-4825-BE82-6D107CB7A8F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50EF5AAE-DC87-4825-BE82-6D107CB7A8F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AB2D3E1-3BD3-4E3A-8F2D-27E56EC3B4E9}
+	EndGlobalSection
+EndGlobal
